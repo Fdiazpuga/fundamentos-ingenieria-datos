@@ -1,6 +1,6 @@
 # Fundamentos de Ingeniería de Datos
 
-Este repositorio contiene las bitácoras de ejercicios desarrollados durante el curso **Fundamentos de Ingeniería de Datos**.  
+Este portafolio contiene las bitácoras de ejercicios desarrollados durante el curso **Fundamentos de Ingeniería de Datos**.  
 Cada módulo está organizado en una carpeta independiente con sus respectivos notebooks y descripciones.
 
 ## 📁 Estructura por módulo
