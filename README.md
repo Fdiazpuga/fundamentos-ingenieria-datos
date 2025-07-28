@@ -8,7 +8,7 @@ Cada módulo está organizado en una carpeta independiente con sus respectivos n
 - [Módulo 2 - Bitácora de ejercicios](https://github.com/Fdiazpuga/fundamentos-ingenieria-datos/tree/main/modulo-2)  
   Fundamentos de Python: estructuras de control, funciones, colecciones, entrada/salida.
 
-- [Módulo 3 - Bitácora de ejercicios](pendiente)  
+- [Módulo 3 - Bitácora de ejercicios](https://github.com/Fdiazpuga/fundamentos-ingenieria-datos/tree/main/modulo-3)  
   Carga, transformación y análisis de datos con Pandas y NumPy.
 
 ## 🚀 Instrucciones
