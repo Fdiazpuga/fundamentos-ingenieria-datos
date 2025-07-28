@@ -1,2 +1,22 @@
-# fundamentos-ingenieria-datos
-Repositorio general con las bitácoras del curso Fundamentos de Ingeniería de Datos.
+# Fundamentos de Ingeniería de Datos
+
+Este repositorio contiene las bitácoras de ejercicios desarrollados durante el curso **Fundamentos de Ingeniería de Datos**.  
+Cada módulo está organizado en una carpeta independiente con sus respectivos notebooks y descripciones.
+
+## 📁 Estructura por módulo
+
+- [Módulo 2 - Bitácora de ejercicios](https://github.com/Fdiazpuga/bitacora-modulo2)  
+  Fundamentos de Python: estructuras de control, funciones, colecciones, entrada/salida.
+
+- [Módulo 3 - Bitácora de ejercicios](pendiente)  
+  Carga, transformación y análisis de datos con Pandas y NumPy.
+
+## 🚀 Instrucciones
+
+Cada módulo incluye un notebook en Google Colab con las soluciones desarrolladas.  
+Puedes clonar este repositorio y explorar cada carpeta o acceder directamente desde los enlaces anteriores.
+
+---
+
+**Autor**: Fabián Díaz  
+**Curso**: Fundamentos de Ingeniería de Datos  
