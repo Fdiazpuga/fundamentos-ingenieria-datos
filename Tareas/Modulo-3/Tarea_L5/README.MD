@@ -3,7 +3,7 @@
 **Curso:** Fundamentos de Ingeniería de Datos  
 **Estudiante:** Fabián Díaz
 
-Notebook: [`Tarea_L5.ipynb`](./Tarea_L5.ipynb)
+Notebook: [`Tarea_L5.ipynb`](./Tarea_L5_Módulo_3.ipynb)
 
 ## Objetivo
 Aplicar un flujo reproducible de **carga → limpieza → transformación → exportación** con **Pandas**:
