@@ -3,7 +3,7 @@
 **Curso:** Fundamentos de Ingeniería de Datos  
 **Estudiante:** Fabián Díaz
 
-Notebook: [`Tarea_L3.ipynb`](./Tarea_L3.ipynb)
+Notebook: [`Tarea_L3.ipynb`](./Tarea_L3_Módulo_3.ipynb)
 
 ## Objetivo
 Implementar un flujo reproducible con **Pandas** para:
